@@ -1,0 +1,16 @@
+PODS:
+  - ICColorButton (0.1.0)
+
+DEPENDENCIES:
+  - ICColorButton (from `../`)
+
+EXTERNAL SOURCES:
+  ICColorButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ICColorButton: e5388419edc6d32edd209b1fb3647f35c46c89a6
+
+PODFILE CHECKSUM: 94b1d788dd6354b8e1eafb6b11aa84caeaf6bcdf
+
+COCOAPODS: 1.2.1

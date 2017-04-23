@@ -1,0 +1,14 @@
+
+platform :ios, '8.0'
+
+use_frameworks!
+
+target 'ICColorButton_Example' do
+  pod 'ICColorButton', :path => '../'
+
+  target 'ICColorButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
